@@ -109,6 +109,18 @@ Predicted Y value
 
 ![image](https://github.com/user-attachments/assets/b03123a8-b7b9-4595-9b34-d718fec6697c)
 
+Y value
+
+
+![image](https://github.com/user-attachments/assets/5f16737f-f6bf-4eed-b9e0-6872fb31fb39)
+
+
+New Y predictions
+
+![image](https://github.com/user-attachments/assets/eb52d01c-0eed-4157-96cf-8a656dc5e1cb)
+
+
+
 
 
 
